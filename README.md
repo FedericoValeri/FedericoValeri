@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **Knoway Systems Srl**
 
-- 📫 How to reach me **federico.valeri@unicam.it**
+- 📫 How to reach me **federico.valeri@knowaysystems.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
